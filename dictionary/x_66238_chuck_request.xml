@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Request" max_length="40" name="x_66238_chuck_request" type="collection">
+        <element label="Height" max_length="40" name="height" type="integer"/>
+        <element label="Length" max_length="40" name="length" type="integer"/>
+        <element label="Width" max_length="40" name="width" type="integer"/>
+    </element>
+</database>
